@@ -191,7 +191,11 @@ yarn -v
 
 3. 双击打开工具即可
 
-   ![image-20200522172425782](medias/image-20200522172425782.png)# [第三章 React-native - 基础](https://reactnative.cn) 
+   ![image-20200522172425782](medias/image-20200522172425782.png)
+   
+
+
+# [ React-native - 基础](https://reactnative.cn) 
 
 主要讲解以下React的基础知识,方便同学们更好的学习项目的知识。
 
