@@ -1,4 +1,4 @@
-# re-ts-web
+# rn-ts-web
 环境搭建： https://reactnative.cn/docs/environment-setup
 
 ## init app
