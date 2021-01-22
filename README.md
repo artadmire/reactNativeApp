@@ -544,8 +544,8 @@ export default Index;
    2. 不能查看标签结构
    3. 不能查看网络请求
    
-2. 使用rn推荐的工具 [react-native-debugger](https://github.com/jhen0409/react-native-debugger)来调试 (**老师推荐使用这种方式**)
-
+2. 使用rn推荐的工具 [react-native-debugger]来调试（推荐）
+https://github.com/jhen0409/react-native-debugger
    1. 可以查看标签结构
    2. 不能查看网络请求
 
